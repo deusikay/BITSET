@@ -13,9 +13,12 @@ Copie o comando abaixo e cole no seu terminal.
 
 * Como compilar:
 1. Abra o terminal na sua pasta com o código e escreva:
+	
 	`cd BITSET`
+	
     `gcc TR3_537725.c -o bitset`
     
 * Como executar:
 1. Ainda no terminal digite:
+	
 	`./bitset`
