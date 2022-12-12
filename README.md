@@ -8,18 +8,18 @@
 1. Como baixar:
 Copie o comando abaixo e cole no seu terminal.
 
-	`git clone https://github.com/deusikay/BITSET.git`
+	git clone https://github.com/deusikay/BITSET.git
 
 2. Como compilar:
 
 Abra o terminal na sua pasta com o código e escreva
 	
-	`cd BITSET`
+	cd BITSET
 	
-	`gcc TR3_537725.c -o bitset`
+	gcc TR3_537725.c -o bitset
     
 3. Como executar
 
 Ainda no terminal digite:
 	
-	`./bitset`
+	./bitset
