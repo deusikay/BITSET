@@ -7,6 +7,11 @@
 
 1. Como baixar:
 Copie o comando abaixo e cole no seu terminal.
+	
+	cd BITSET
+	
+	gcc TR3_537725.c -o bitset
+    
 	`git clone https://github.com/deusikay/BITSET.git´
 
 2. Como compilar:
