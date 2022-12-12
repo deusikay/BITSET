@@ -6,7 +6,7 @@
 
 Como baixar:
 
-- `Funcionalidade 1`
+- `https://github.com/deusikay/BITSET.git`
 * [Como compilar:](#Como-compilar)
 * [Como executar:](#Como-executar)
 
