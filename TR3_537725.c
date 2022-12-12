@@ -30,7 +30,7 @@ int main(){
 				printf("%d ", j + pos_vet );
 			}
 		}
-		pos_vet = pos_vet + 32; //para ir iterando pelas posicoes do vetor
+		pos_vet = pos_vet + 32; //para ir iterando pelas posicoes dos bytes
 	}
 	return 0;  
 }
