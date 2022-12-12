@@ -6,7 +6,7 @@
 Índice 
 
 * [Como baixar:](#Como-baixar)
-    Execute a seguinte linha de código 
+- `Funcionalidade 1`:akjskajs
 * [Como compilar:](#Como-compilar)
 * [Como executar:](#Como-executar)
 
