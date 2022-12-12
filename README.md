@@ -6,7 +6,7 @@
 
 Como baixar:
 
-- `https://github.com/deusikay/BITSET.git`
+`git clone https://github.com/deusikay/BITSET.git`
 * [Como compilar:](#Como-compilar)
 * [Como executar:](#Como-executar)
 
