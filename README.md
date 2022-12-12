@@ -6,7 +6,7 @@
 Índice 
 
 * [Como baixar:](#Como-baixar)
-    ksjkajslkjas
+    Execute a seguinte linha de código 
 * [Como compilar:](#Como-compilar)
 * [Como executar:](#Como-executar)
 
