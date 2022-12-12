@@ -5,23 +5,23 @@
 
 > Para compilar e executar é importante que possua o compilador gcc.
 
-* Como baixar:
+1. Como baixar:
 Copie o comando abaixo e cole no seu terminal.
 
 
 	`git clone https://github.com/deusikay/BITSET.git`
 
 
-* Como compilar:
+2. Como compilar:
 
-	1. Abra o terminal na sua pasta com o código e escreva:
+Abra o terminal na sua pasta com o código e escreva
 	
-		`cd BITSET`
+	`cd BITSET`
 	
-   	 `gcc TR3_537725.c -o bitset`
+	`gcc TR3_537725.c -o bitset`
     
-* Como executar:
+3. Como executar
 
-	1. Ainda no terminal digite:
+Ainda no terminal digite:
 	
 		`./bitset`
