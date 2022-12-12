@@ -6,6 +6,7 @@
 
 Como baixar:
 Copie o comando abaixo e cole no seu terminal.
+
 `git clone https://github.com/deusikay/BITSET.git`
 * [Como compilar:](#Como-compilar)
 * [Como executar:](#Como-executar)
