@@ -8,7 +8,7 @@
 1. Como baixar:
 Copie o comando abaixo e cole no seu terminal.
 
-	`git clone https://github.com/deusikay/BITSET.git´
+`git clone https://github.com/deusikay/BITSET.git´
 
 2. Como compilar:
 
