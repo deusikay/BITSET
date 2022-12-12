@@ -2,14 +2,13 @@
 #include <stdlib.h>
 
 
-
 int main(){
 
-  unsigned int vetor[200]; //criando um vetor de 200 posicoes
-  int num = 0; //variavel que tem o objetivo de guadar os números digitados pelo usuario
+	unsigned int vetor[200]; //criando um vetor de 200 posicoes
+	int num = 0; //variavel que tem o objetivo de guadar os números digitados pelo usuario
 	int pos_vet = 0; //variavel que atribui a posição que o número ficará com o bitset
 	int i; //variavel que ira iterar pelo vetor de 200 posicoes
-  int j; //variavel que ira iterar pelo vetor menor de 32 bits
+	int j; //variavel que ira iterar pelo vetor menor de 32 bits
 
 	for (i = 0; i < 200; i++){ //preechendo as posicoes do vetor com o numero 0
 		vetor[i] = 0; 
