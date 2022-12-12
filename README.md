@@ -6,6 +6,7 @@
 >Para compilar e executar é importante que possua o compilador gcc.
 
 1. Como baixar:
+
 Copie o comando abaixo e cole no seu terminal.
 	
 	cd BITSET
