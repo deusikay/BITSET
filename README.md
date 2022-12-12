@@ -1,2 +1,2 @@
-# TR3_537725
+# BITSET
 Trabalho avaliativo da disciplina de laboratório de programação
