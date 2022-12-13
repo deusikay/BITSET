@@ -1,7 +1,7 @@
 <h1 align="center">
     <a>BITSET </a>
 </h1>
-<p align="justify">Trabalho avaliativo da disciplina de laboratório de programação. O código se refere a utilização de operadores bit a bit para salvar todos os valores digitados pelo individuo, desde que os números sejam positivos e menores que 5000.</p>
+<p align="justify">Trabalho avaliativo da disciplina de laboratório de programação. O código se refere a utilização de operadores bit a bit para salvar todos os valores digitados pelo individuo, desde que os números sejam positivos e menores que 5000. Além disso, ao se digitar -1 o código para e será mostrado todos os números já inseridos.</p>
 
 >Para compilar e executar é importante que possua o compilador gcc.
 
