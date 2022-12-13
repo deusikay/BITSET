@@ -25,12 +25,12 @@ int main(){
 	}
 
 	for ( i = 0; i <= 199; i ++){ //pecorrendo pelo maior vetor
-		for (j = 0; j <= 31; j++){ //pecorrendo a patir do menor vetor
+		for (j = 0; j <= 31; j++){ //pecorrendo a partir do menor vetor
 			if (vetor[i] & (2147483648 >> j)){ //verificando se o bit está ligado
-				printf("%d ", j + pos_vet );
+				printf("%d ", j + pos_vet ); 
 			}
 		}
-		pos_vet = pos_vet + 32; //para ir iterando pelas posicoes dos bytes
+		pos_vet = pos_vet + 32; //para ir iterando pelas posicoes
 	}
 	return 0;  
 }
